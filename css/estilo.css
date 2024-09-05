@@ -1,0 +1,226 @@
+.Cabeza
+{
+    background-color: orange;
+    width: 100px; height: 100px;
+    position: relative;
+    top: 50px;
+    left: 200px;
+}
+.ojo1
+{
+    background-color: blueviolet;
+    width: 20px; height: 20px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+.pupila1
+{
+    background-color: black;
+    width: 8px; height: 8px;
+    position: absolute;
+    left: 26px;
+    top: 26px;
+}
+.ojo2
+{
+    background-color: blueviolet;
+    width: 20px; height: 20px;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+.pupila2
+{
+    background-color: black;
+    width: 8px; height: 8px;
+    position: absolute;
+    right: 26px;
+    top: 26px;
+}
+.nariz
+{
+    background-color: yellow;
+    width: 17px; height: 17px;
+    position: absolute;
+    left: 41px;
+    top: 45px;
+    border-radius: 8px;
+}
+.boca
+{
+    background-color: blueviolet;
+    width: 40px; height: 2px;
+    position: absolute;
+    left: 30px;
+    top: 80px;
+}
+.oreja1
+{
+    background-color: lightgreen;
+    width: 17px; height: 17px;
+    position: absolute;
+    left: 192px;
+    top: 90px;
+    border-radius: 8px;
+}
+.oreja2
+{
+    background-color: lightgreen;
+    width: 17px; height: 17px;
+    position: absolute;
+    right: 957px;
+    top: 90px;
+    border-radius: 8px;
+}
+.antena
+{
+    background-color: blueviolet;
+    width: 2px; height: 30px;
+    position: absolute;
+    left: 258px;
+    top: 28px;
+}
+.p_antena
+{
+    background-color: lightgreen;
+    width: 17px; height: 17px;
+    position: absolute;
+    left: 250px;
+    top: 11px;
+    border-radius: 8px;
+
+}
+.Cuello
+{
+    background-color: orange;
+    width: 70px; height: 20px;
+    position: absolute;
+    left: 223px;
+    top: 158px;
+}
+.Torso
+{
+    background-color: orange;
+    width: 120px; height: 110px;
+    position: absolute;
+    left: 197px;
+    top: 178px;
+}
+.franja1
+{
+    background-color: lightgreen;
+    width: 30px; height: 50px;
+    position:absolute;
+    left: 20px;
+    top: 30px;
+}
+.franja2
+{
+    background-color: lightgreen;
+    width: 30px; height: 50px;
+    position:absolute;
+    right: 20px;
+    top: 30px;
+}
+.Brazo1
+{
+    background-color: blue;
+    width: 80px; height: 4px;
+    position: absolute;
+    left: 130px;
+    top: 200px;
+    transform: rotate(45deg);
+}
+.dedo1
+{
+    background-color: blue;
+    width: 22px; height: 4px;
+    position: absolute;
+    left: 122px;
+    top: 168px;
+    transform: rotate(20deg);
+}
+.dedo2
+{
+    background-color: blue;
+    width: 22px; height: 4px;
+    position: absolute;
+    left: 135px;
+    top: 160px;
+    transform: rotate(110deg);
+}
+.Brazo2
+{
+    background-color: blue;
+    width: 80px; height: 4px;
+    position: absolute;
+    left: 305px;
+    top: 200px;
+    transform: rotate(-45deg);
+}
+.dedo3
+{
+    background-color: blue;
+    width: 22px; height: 4px;
+    position: absolute;
+    left: 371px;
+    top: 168px;
+    transform: rotate(-20deg);
+}
+.dedo4
+{
+    background-color: blue;
+    width: 22px; height: 4px;
+    position: absolute;
+    left: 358px;
+    top: 160px;
+    transform: rotate(-110deg);
+}
+.Cadera
+{
+    background-color: orange;
+    width: 70px; height: 20px;
+    position: absolute;
+    left: 223px;
+    top: 288px;   
+}
+.Base
+{
+    background-color: orange;
+    width: 130px; height: 100px;
+    position: absolute;
+    left: 192px;
+    top: 300px;   
+}
+.franja3
+{
+    background-color: lightgreen;
+    width: 30px; height: 50px;
+    position:absolute;
+    left: 10px;
+    top: 30px;
+}
+.franja4
+{
+    background-color: lightgreen;
+    width: 30px; height: 50px;
+    position:absolute;
+    right: 50px;
+    top: 30px;
+}
+.franja5
+{
+    background-color: lightgreen;
+    width: 30px; height: 50px;
+    position:absolute;
+    right: 10px;
+    top: 30px;
+}
+.nombre
+{
+    background-color: white;
+    position: absolute;
+    left: 400px;
+    top: 0px;
+}
